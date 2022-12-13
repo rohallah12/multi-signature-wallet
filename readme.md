@@ -1,4 +1,4 @@
-this is a Forge workspace which contains contract for:
+this is a Forge workspace which contains contract for:<br>
     - a multisignature wallet 
     - a target contract to test multisignature wallet
 
@@ -9,5 +9,5 @@ after installing forge run
 
 <code>forge test</code>
 
-to be able to use consoe.log library, use forge test with verbosity 2:
+to be able to use consoe.log library, use forge test with verbosity 2:<br>
 <code>forge test -vv</code>
